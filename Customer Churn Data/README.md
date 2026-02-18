@@ -25,7 +25,7 @@ It contains customer demographics, tenure, product usage, churn status amongst o
 Target retention campaigns for short-tenure customers and those with limited product engagement.
 
 ## How to view
-
+https://github.com/Oltomisin/Featured-Projects/blob/main/Customer%20Churn%20Data/Bank%20churn.pbix
 
 ## Screenshot
 https://github.com/Oltomisin/Featured-Projects/blob/main/Customer%20Churn%20Data/Bank%20churn%20screenshot.jpg
