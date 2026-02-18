@@ -28,3 +28,4 @@ Target retention campaigns for short-tenure customers and those with limited pro
 
 
 ## Screenshot
+https://github.com/Oltomisin/Featured-Projects/blob/main/Customer%20Churn%20Data/Bank%20churn%20screenshot.jpg
