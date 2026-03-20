@@ -18,7 +18,5 @@ The top highest selling product category and revenue falls between Technology, o
 The West region contributes the highest sales but has lower profit margins
 Home office segment has the lowest profit due to high discounts
 
-## How to view
-[Dashboard File] (https://github.com/Oltomisin/Featured-Projects/tree/main/Call%20Centre%20Analysis)
 
 
